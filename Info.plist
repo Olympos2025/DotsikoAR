@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" 
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key><string>$(PRODUCT_NAME)</string>
+    <key>CFBundleIdentifier</key><string>com.dotsiko.DotsikoARApp</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>CFBundleShortVersionString</key><string>1.0</string>
+    <key>NSCameraUsageDescription</key><string>Απαιτείται πρόσβαση στην κάμερα για AR εμπειρία</string>
+    <key>NSLocationWhenInUseUsageDescription</key><string>Απαιτείται η τοποθεσία για γεω-ευθυγράμμιση AR</string>
+    <key>UIRequiredDeviceCapabilities</key>
+    <array><string>arkit</string></array>
+    <key>UILaunchStoryboardName</key><string>LaunchScreen</string>
+    <key>UIMainStoryboardFile</key><string>Main</string>
+</dict>
+</plist>
