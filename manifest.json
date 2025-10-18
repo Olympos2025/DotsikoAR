@@ -1,0 +1,15 @@
+{
+  "name": "FieldAR",
+  "short_name": "FieldAR",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1f6feb",
+  "icons": [
+    {
+      "src": "/assets/logo.svg",
+      "sizes": "128x128",
+      "type": "image/svg+xml"
+    }
+  ]
+}
