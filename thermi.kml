@@ -1,1 +1,27 @@
-<kml></kml>
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Field Center</name>
+      <Point>
+        <coordinates>22.431,39.639,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Field Boundary</name>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              22.4305,39.6385,0
+              22.4315,39.6385,0
+              22.4315,39.6395,0
+              22.4305,39.6395,0
+              22.4305,39.6385,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
